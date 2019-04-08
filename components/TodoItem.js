@@ -19,7 +19,7 @@ export default class TodoItem extends Component {
           >
             remove
           </button>
-          {this.props.todo.text}
+          {this.props.todo}
 
           <style scoped>{`
           .todoWrapper {

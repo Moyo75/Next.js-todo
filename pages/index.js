@@ -5,21 +5,32 @@ import Header from "../components/Header";
 import TodoInput from "../components/TodoInput";
 import TodoItem from "../components/TodoItem";
 
+import fetch from "isomorphic-unfetch";
+
 export default class index extends Component {
   constructor(props) {
     super(props);
 
     this.state = {
-      todos: [
-        { id: 0, text: "Have breakfast" },
-        { id: 1, text: "Do the dishes" },
-        { id: 2, text: "Write some code" }
-      ],
-      nextId: 3
+      todos: []
     };
 
     this.addTodo = this.addTodo.bind(this);
     this.removeTodo = this.removeTodo.bind(this);
+  }
+
+  static async getInitialProps() {
+    const res = await fetch("http://localhost:3000/todos");
+    const data = await res.json();
+    return {
+      todoList: data.todos
+    };
+  }
+
+  componentWillMount() {
+    this.setState({
+      todos: this.props.todoList
+    });
   }
 
   addTodo(todoText) {
@@ -52,7 +63,7 @@ export default class index extends Component {
               {this.state.todos.map(todo => {
                 return (
                   <TodoItem
-                    todo={todo}
+                    todo={todo.text}
                     key={todo.id}
                     id={todo.id}
                     removeTodo={this.removeTodo}
