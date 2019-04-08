@@ -646,7 +646,7 @@ var styles = {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\hp\Documents\Books\React projects\Enye\Next-todo\node_modules\next\dist\pages\_error.js */"./node_modules/next/dist/pages/_error.js");
+module.exports = __webpack_require__(/*! C:\Users\hp\Documents\Books\React projects\Enye\NextTodo-Submit\Next.js-todo\node_modules\next\dist\pages\_error.js */"./node_modules/next/dist/pages/_error.js");
 
 
 /***/ }),

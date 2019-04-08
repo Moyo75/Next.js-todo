@@ -3760,10 +3760,10 @@ module.exports = __webpack_require__(/*! ./dist/lib/head */ "./node_modules/next
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=C%3A%5CUsers%5Chp%5CDocuments%5CBooks%5CReact%20projects%5CEnye%5CNext-todo%5Cnode_modules%5Cnext%5Cdist%5Cpages%5C_error.js!./":
-/*!***********************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=C%3A%5CUsers%5Chp%5CDocuments%5CBooks%5CReact%20projects%5CEnye%5CNext-todo%5Cnode_modules%5Cnext%5Cdist%5Cpages%5C_error.js ***!
-  \***********************************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=C%3A%5CUsers%5Chp%5CDocuments%5CBooks%5CReact%20projects%5CEnye%5CNextTodo-Submit%5CNext.js-todo%5Cnode_modules%5Cnext%5Cdist%5Cpages%5C_error.js!./":
+/*!********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=C%3A%5CUsers%5Chp%5CDocuments%5CBooks%5CReact%20projects%5CEnye%5CNextTodo-Submit%5CNext.js-todo%5Cnode_modules%5Cnext%5Cdist%5Cpages%5C_error.js ***!
+  \********************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4670,13 +4670,13 @@ module.exports = (__webpack_require__(/*! dll-reference dll_afa7b25a60452594c240
 /***/ }),
 
 /***/ 2:
-/*!***************************************************************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F_error&absolutePagePath=C%3A%5CUsers%5Chp%5CDocuments%5CBooks%5CReact%20projects%5CEnye%5CNext-todo%5Cnode_modules%5Cnext%5Cdist%5Cpages%5C_error.js ***!
-  \***************************************************************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F_error&absolutePagePath=C%3A%5CUsers%5Chp%5CDocuments%5CBooks%5CReact%20projects%5CEnye%5CNextTodo-Submit%5CNext.js-todo%5Cnode_modules%5Cnext%5Cdist%5Cpages%5C_error.js ***!
+  \************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F_error&absolutePagePath=C%3A%5CUsers%5Chp%5CDocuments%5CBooks%5CReact%20projects%5CEnye%5CNext-todo%5Cnode_modules%5Cnext%5Cdist%5Cpages%5C_error.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=C%3A%5CUsers%5Chp%5CDocuments%5CBooks%5CReact%20projects%5CEnye%5CNext-todo%5Cnode_modules%5Cnext%5Cdist%5Cpages%5C_error.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F_error&absolutePagePath=C%3A%5CUsers%5Chp%5CDocuments%5CBooks%5CReact%20projects%5CEnye%5CNextTodo-Submit%5CNext.js-todo%5Cnode_modules%5Cnext%5Cdist%5Cpages%5C_error.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=C%3A%5CUsers%5Chp%5CDocuments%5CBooks%5CReact%20projects%5CEnye%5CNextTodo-Submit%5CNext.js-todo%5Cnode_modules%5Cnext%5Cdist%5Cpages%5C_error.js!./");
 
 
 /***/ }),
